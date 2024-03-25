@@ -14,9 +14,13 @@ def run_game():
     # Set up the drawing window
     screen = pygame.display.set_mode([gm_settings.screen_width, gm_settings.screen_height])
     pygame.display.set_caption(gm_settings.caption)
+    
+    # Set up clock to decent frame rate
+    clock = pygame.time.Clock()
 
     # Instantiate player
     player = Player(screen)
+    
     # Create groups to hold bubbles
     bubbles = pygame.sprite.Group()
 
@@ -25,7 +29,8 @@ def run_game():
     while running:
         gf.check_events(gm_settings, screen, player, bubbles)
         player.update()
+        gf.update_bubbles(player, bubbles)
         bubbles.update()
-        gf.update_screen(gm_settings, screen, player, bubbles)    
+        gf.update_screen(gm_settings, screen, player, bubbles, clock)    
 
 run_game()
