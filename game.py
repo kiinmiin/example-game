@@ -4,6 +4,7 @@
 import pygame
 from settings import Settings
 from player import Player
+from bubble import Bubble
 import game_functions as gf
 
 def run_game():
@@ -16,12 +17,15 @@ def run_game():
 
     # Instantiate player
     player = Player(screen)
+    # Create groups to hold bubbles
+    bubbles = pygame.sprite.Group()
 
     # Run until the user asks to quit
     running = True
     while running:
-        gf.check_events(player)
+        gf.check_events(gm_settings, screen, player, bubbles)
         player.update()
-        gf.update_screen(gm_settings, screen, player)    
+        bubbles.update()
+        gf.update_screen(gm_settings, screen, player, bubbles)    
 
 run_game()
