@@ -33,3 +33,6 @@ Voilà, kui kõik õieti tehtud on siis mäng peaks teil avanema ekraani keskel.
 Tuleb allalaadida järgnevad .py lõpulised failid
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/5T9ZPMn/allalaaditavadfailid.png" alt="allalaaditavadfailid" border="0"></a>
 
+Kui veel olemas pole siis tuleb alla laadida python IDE ja/või thonny(py3 versioon)
+Thonny's või Pythoni IDE's tuleb alla laadida selline pakett nagu pygame
+Nüüd võite liikuda tagasi kasutuse juurde
