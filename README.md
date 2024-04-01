@@ -22,9 +22,9 @@ allalaadimise järgselt kirjutage järgnev kas
 Kasutades thonny shell'i:
 ```py
 >>> %Run game.py
-'Konsooli output:
-pygame 2.5.2 (SDL 2.28.2, Python 3.10.12)
-Hello from the pygame community. https://www.pygame.org/contribute.html'
+#Konsooli output:
+"pygame 2.5.2 (SDL 2.28.2, Python 3.10.12)
+Hello from the pygame community. https://www.pygame.org/contribute.html"
 ```
 Voilà, kui kõik õieti tehtud on siis mäng peaks teil avanema ekraani keskel.
 
