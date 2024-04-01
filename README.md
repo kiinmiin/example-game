@@ -33,4 +33,4 @@ Tuleb allalaadida järgnevad .py lõpulised failid
 
 Kui veel olemas pole siis tuleb alla laadida python interpreter ja/või thonny(py3 versioon)
 Thonny's tuleb alla laadida selline pakett nagu pygame
-Nüüd võite liikuda tagasi kasutuse juurde
+nüüd võite liikuda tagasi kasutuse juurde
