@@ -11,8 +11,7 @@ Bubble Blaster on põnev arkaad-stiilis videomäng mis kutsub mängijaid ennast 
 
 ### ✍ Autor 
 
-Õppur Rasmo Kiin ITA23-õppegruppist Tartu Rakenduslikus Kolledžist
-Kontakt mail: rasmo.kiin[at]voco.ee
+Õppur Rasmo Kiin ITA23-õppegruppist Tartu Rakenduslikus Kolledžist, kontakt mail: rasmo.kiin[at]voco.ee
 
 ## ⚙ Kasutus
 Kuidas kasutada? -
