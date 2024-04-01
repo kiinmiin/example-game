@@ -31,5 +31,5 @@ Voilà, kui kõik õieti tehtud on siis mäng peaks teil avanema ekraani keskel.
 ##  Allalaadimine
 
 Tuleb allalaadida järgnevad .py lõpulised failid
-![alt text](https://ibb.co/sjP7Zm6) 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/5T9ZPMn/allalaaditavadfailid.png" alt="allalaaditavadfailid" border="0"></a>
 
