@@ -1,10 +1,9 @@
-#  💾 (Projekti nimi siia)
+#  💾 Bubble Blaster
 
 ## ✨Miks just see tarkvara?
-- ![#1](https://www.iconsdb.com/icons/download/color/f03c15/circle-16.png) `#1` # (esimene punkt)
-- ![#1](https://www.iconsdb.com/icons/download/color/f03c15/circle-16.png) `#1` # (teine punkt)
-- ![#1](https://www.iconsdb.com/icons/download/color/f03c15/circle-16.png) `#1` # (kolmas punkt)
-- ![#1](https://www.iconsdb.com/icons/download/color/f03c15/circle-16.png) `#1` # (neljas punkt)
+- ![#1](https://www.iconsdb.com/icons/download/color/f03c15/circle-16.png) `#1` # Lihtne kasutada
+- ![#2](https://www.iconsdb.com/icons/download/color/f03c15/circle-16.png) `#2` # Võib nii mõnelegi pakkuda meelelahutust
+- ![#3](https://www.iconsdb.com/icons/download/color/f03c15/circle-16.png) `#3` # Tasuta kasutatav
 
 ##  📃Ülevaade
 (paragraaf)
