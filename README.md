@@ -15,16 +15,15 @@ Bubble Blaster on põnev arkaad-stiilis videomäng mis kutsub mängijaid ennast 
 
 ## ⚙ Kasutus
 Kuidas kasutada? -
-Lihtne:
-allalaadimise järgselt kirjutage järgnev kas 
-
-Kasutades thonny shell'i:
+Lihtne: 
+allalaadimise järgselt kirjutage järgnev thonny shell'i:
 ```py
 >>> %Run game.py
 #Konsooli output:
 "pygame 2.5.2 (SDL 2.28.2, Python 3.10.12)
 Hello from the pygame community. https://www.pygame.org/contribute.html"
 ```
+
 Voilà, kui kõik õieti tehtud on siis mäng peaks teil avanema ekraani keskel.
 
 ##  Allalaadimine
@@ -32,6 +31,6 @@ Voilà, kui kõik õieti tehtud on siis mäng peaks teil avanema ekraani keskel.
 Tuleb allalaadida järgnevad .py lõpulised failid
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/5T9ZPMn/allalaaditavadfailid.png" alt="allalaaditavadfailid" border="0"></a>
 
-Kui veel olemas pole siis tuleb alla laadida python IDE ja/või thonny(py3 versioon)
-Thonny's või Pythoni IDE's tuleb alla laadida selline pakett nagu pygame
+Kui veel olemas pole siis tuleb alla laadida python interpreter ja/või thonny(py3 versioon)
+Thonny's tuleb alla laadida selline pakett nagu pygame
 Nüüd võite liikuda tagasi kasutuse juurde
